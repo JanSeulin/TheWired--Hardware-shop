@@ -1,0 +1,9 @@
+.directory-menu {
+  // width: 95%;
+  width: 95vw;
+  display: grid;
+  justify-items: center;
+  grid-template-columns: repeat(3, 1fr);
+  row-gap: 4rem;
+  margin-top: 10vh;
+}
