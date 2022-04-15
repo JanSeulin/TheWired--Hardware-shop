@@ -7,3 +7,10 @@
   row-gap: 4rem;
   margin-top: 10vh;
 }
+
+@media (max-width: 720px) {
+  .directory-menu {
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 6vh;
+  }
+}

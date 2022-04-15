@@ -62,3 +62,16 @@
     }
   }
 }
+
+@media (max-width: 720px) {
+  .header {
+    padding: 5rem 4rem 5rem 4rem;
+
+    .menu-options {
+      .option {
+        font-size: 1.4rem;
+        padding: 0.8rem 1.4rem;
+      }
+    }
+  }
+}
