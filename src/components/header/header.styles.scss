@@ -65,13 +65,19 @@
 
 @media (max-width: 720px) {
   .header {
-    padding: 5rem 4rem 5rem 4rem;
+    padding: 5rem 2rem 5rem 2rem;
+    display: block;
+
+    .logo-container {
+      position: absolute;
+      max-width: 50vw;
+      top: 2rem;
+      left: 50%;
+      transform: translateX(-50%);
+    }
 
     .menu-options {
-      .option {
-        font-size: 1.4rem;
-        padding: 0.8rem 1.4rem;
-      }
+      display: none;
     }
   }
 }

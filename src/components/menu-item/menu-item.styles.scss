@@ -78,3 +78,15 @@
     }
   }
 }
+
+@media (max-width: 1024px) {
+  .menu-item {
+    width: 93%;
+  }
+}
+
+@media (max-width: 720px) {
+  .menu-item {
+    width: 96%;
+  }
+}

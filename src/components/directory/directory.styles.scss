@@ -8,9 +8,16 @@
   margin-top: 10vh;
 }
 
-@media (max-width: 720px) {
+@media (max-width: 1024px) {
   .directory-menu {
     grid-template-columns: repeat(2, 1fr);
     margin-top: 6vh;
+  }
+}
+
+@media (max-width: 720px) {
+  .directory-menu {
+    row-gap: 2rem;
+    grid-template-columns: repeat(1, 1fr);
   }
 }
