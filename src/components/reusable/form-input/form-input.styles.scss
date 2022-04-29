@@ -53,3 +53,12 @@ $sub-color: #aaa;
     @include shrinkLabel;
   }
 }
+
+// @media (max-width: 720px) {
+//   .group {
+//     margin: 3rem auto;
+//     .form-input {
+//       width: 70%;
+//     }
+//   }
+// }

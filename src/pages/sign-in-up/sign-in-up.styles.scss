@@ -22,3 +22,9 @@
 //   top: 50%;
 //   transform: translateY(-50%);
 // }
+@media (max-width: 720px) {
+  .sign-in-up--container {
+    flex-direction: column;
+    margin: 5rem auto;
+  }
+}
