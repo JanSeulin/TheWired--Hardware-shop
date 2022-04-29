@@ -45,6 +45,12 @@
     align-items: center;
     gap: 0rem;
 
+    & span {
+      color: white;
+      margin-right: 4rem;
+      font-size: 1.6rem;
+    }
+
     .option {
       color: white;
       font-size: 1.6rem;
@@ -58,6 +64,7 @@
         color: #005d0e;
         background-color: #05b21e;
         opacity: 1;
+        cursor: pointer;
       }
     }
   }
