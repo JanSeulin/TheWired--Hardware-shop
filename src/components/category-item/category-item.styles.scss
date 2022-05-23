@@ -71,3 +71,33 @@
     }
   }
 }
+
+@media (max-width: 720px) {
+  .category-item {
+    height: 35rem;
+
+    &:nth-child(3) {
+      display: none;
+    }
+    &:last-child {
+      display: none;
+    }
+
+    .custom-button {
+      position: absolute;
+      width: 60%;
+      bottom: 35%;
+      display: none;
+    }
+
+    .category-footer {
+      .name {
+        font-size: 1.6rem;
+      }
+
+      .price {
+        font-size: 2rem;
+      }
+    }
+  }
+}

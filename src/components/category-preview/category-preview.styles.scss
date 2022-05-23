@@ -21,3 +21,21 @@
 .category-preview:last-child {
   margin-bottom: 8rem;
 }
+
+@media (max-width: 1024px) {
+  .category-preview {
+    .preview {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+}
+
+@media (max-width: 720px) {
+  .category-preview {
+    .preview {
+      display: flex;
+      flex-wrap: wrap;
+    }
+  }
+}
