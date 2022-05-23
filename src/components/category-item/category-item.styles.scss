@@ -72,6 +72,22 @@
   }
 }
 
+@media (max-width: 1280px) {
+  .category-item {
+    &:last-child {
+      display: none;
+    }
+  }
+}
+
+@media (max-width: 1024px) {
+  .category-item {
+    &:last-child {
+      display: flex;
+    }
+  }
+}
+
 @media (max-width: 720px) {
   .category-item {
     height: 35rem;
