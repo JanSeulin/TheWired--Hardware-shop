@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TheWired--Hardware-shop/static/css/main.9e4e7c6e.css",
-    "main.js": "/TheWired--Hardware-shop/static/js/main.12bb5a27.js",
+    "main.css": "/TheWired--Hardware-shop/static/css/main.ed7cb8d0.css",
+    "main.js": "/TheWired--Hardware-shop/static/js/main.49f0f69f.js",
     "static/media/wire.svg": "/TheWired--Hardware-shop/static/media/wire.94af883570857fe27b02.svg",
     "static/media/cpu-logo.svg": "/TheWired--Hardware-shop/static/media/cpu-logo.80f39478ccdd809c0156c6c82a5692bc.svg",
     "index.html": "/TheWired--Hardware-shop/index.html",
-    "main.9e4e7c6e.css.map": "/TheWired--Hardware-shop/static/css/main.9e4e7c6e.css.map",
-    "main.12bb5a27.js.map": "/TheWired--Hardware-shop/static/js/main.12bb5a27.js.map"
+    "main.ed7cb8d0.css.map": "/TheWired--Hardware-shop/static/css/main.ed7cb8d0.css.map",
+    "main.49f0f69f.js.map": "/TheWired--Hardware-shop/static/js/main.49f0f69f.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e4e7c6e.css",
-    "static/js/main.12bb5a27.js"
+    "static/css/main.ed7cb8d0.css",
+    "static/js/main.49f0f69f.js"
   ]
 }
