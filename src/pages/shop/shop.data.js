@@ -246,7 +246,7 @@ export const SHOP_DATA = [
       },
       {
         id: 33,
-        name: 'Sony WH-1000XM4 Wireless Industry Leading Noise Canceling Overhead Headphones',
+        name: 'Sony WH-1000XM4 Wireless Noise Canceling Overhead Headphones',
         imageUrl:
           'https://i.ibb.co/KbpgcGw/Sony-WH-1000-XM4-Wireless-Industry-Leading-Noise-Canceling-Overhead-Headphones.jpg',
         price: 348,
